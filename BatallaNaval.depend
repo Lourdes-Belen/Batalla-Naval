@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1781135685 source:c:\users\amati\desktop\github_proyectos_lu\batallanaval\funciones.c
+	"cabecera.h"
+
+1781138265 c:\users\amati\desktop\github_proyectos_lu\batallanaval\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+
+1781138284 source:c:\users\amati\desktop\github_proyectos_lu\batallanaval\main.c
+	"cabecera.h"
+
